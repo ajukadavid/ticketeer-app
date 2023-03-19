@@ -31,5 +31,8 @@
     "postcss": "^8.4.17",
     "ts-jest": "^29.0.3",
     "vue-jest": "^3.0.4"
-  }
+  },
+  "resolutions": {
+    "@nuxt/kit": "3.0.0-rc.13"
+}
 }
